@@ -75,3 +75,5 @@ All the tests show significant results in showing the drug doesnt work for femal
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In order to break down the categories we needed to look at, we learned how to compare sets of character variables. Overall, the medications were ineffective for females, and our testing revealed that they really contracted AIDS as a result.
