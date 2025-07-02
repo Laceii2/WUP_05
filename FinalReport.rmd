@@ -28,6 +28,10 @@ First what we need to do is separate out from all the people we have, just the o
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
+```{r}
+females <- filter(triUmp, gender == "F")
+```
+
 ## Descriptive Results
 
 ### Graphical Descriptive Results
