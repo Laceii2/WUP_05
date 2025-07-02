@@ -70,6 +70,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+All the tests show significant results in showing the drug doesnt work for females.
 
 # Discussion and Conclusion
 
